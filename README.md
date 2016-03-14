@@ -1,2 +1,3 @@
 # rzswitchbladedriver
-I want to finally get the razer sbui working under linux
+
+Based off: https://github.com/FxChiP/rzswitchblade
